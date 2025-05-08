@@ -57,12 +57,5 @@ generative-xai-bayes-risk/
 **Kasa Yeshwant**
 M.S. in Computer & Information Science
 Purdue University Indianapolis
-[LinkedIn](#) | [Email](#)
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-> “Bridging classical probability theory with interpretable AI to build robust and trustworthy models.”
