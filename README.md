@@ -28,8 +28,12 @@ This project explores explainability in classical machine learning through gener
 
 ## 📚 Datasets
 
-* Synthetic Gaussian Data (generated in code)
-* [UCI Breast Cancer Wisconsin Diagnostic Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+- Synthetic Gaussian Data (generated in code)
+- Wisconsin Breast Cancer Diagnostic Dataset:
+  - `wdbc.data`: Raw feature and label records (M/B diagnosis)
+  - `wdbc.names`: Feature schema and metadata
+  - Source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+
 
 ## 🛠️ Tools Used
 
