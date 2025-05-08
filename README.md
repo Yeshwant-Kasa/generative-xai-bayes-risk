@@ -49,13 +49,8 @@ generative-xai-bayes-risk/
 │   └── [PCA plots, decision boundaries, accuracy graphs]
 ├── README.md
 ├── .gitignore
-└── LICENSE
 ```
 
-## 👨‍💼 Author
 
-**Kasa Yeshwant**
-M.S. in Computer & Information Science
-Purdue University Indianapolis
 
 
